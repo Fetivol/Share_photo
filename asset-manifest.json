@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Share_photo/static/css/main.cd2e038f.css",
+    "main.js": "/Share_photo/static/js/main.15087c8d.js",
+    "index.html": "/Share_photo/index.html",
+    "main.cd2e038f.css.map": "/Share_photo/static/css/main.cd2e038f.css.map",
+    "main.15087c8d.js.map": "/Share_photo/static/js/main.15087c8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd2e038f.css",
+    "static/js/main.15087c8d.js"
+  ]
+}
