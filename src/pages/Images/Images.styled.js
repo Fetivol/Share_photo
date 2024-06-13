@@ -7,3 +7,12 @@ export const Title = styled.h2`
   border: ${props => props.theme.radii.sm} solid
     ${props => props.theme.colors.green};
 `;
+
+export const ImagesWrapp = styled.ul`
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: ${props => props.theme.spacing(3)};
+  padding-top: ${props => props.theme.spacing(3)};
+  padding-bottom: ${props => props.theme.spacing(2)};
+`;

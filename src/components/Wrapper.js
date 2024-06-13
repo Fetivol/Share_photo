@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
-export const Layout = styled.div`
+export const Wrapper = styled.div`
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   gap: 20px;
